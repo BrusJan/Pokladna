@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pokladna</string>
+
+    <string name="navigation_drawer_open">Otevřít hlavní menu</string>
+    <string name="navigation_drawer_close">Zavřít hlavní menu</string>
+
+    <string name="action_settings">Nastavení</string>
+    <string name="title_activity_cash_register">Pokladna</string>
+    <string name="title_products_list">Produkty</string>
+    <string name="title_order_summary">Seznam</string>
+    <string name="title_receipt">Účtenka</string>
+    <string name="title_activity_login">Přihlášení</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Heslo</string>
+    <string name="action_sign_in">Přihlásit nebo registrovat</string>
+    <string name="action_sign_in_short">Přihlásit</string>
+    <string name="error_invalid_email">Neplatný email</string>
+    <string name="error_invalid_password">Heslo je příliš krátké</string>
+    <string name="error_incorrect_password">Nesprávné heslo</string>
+    <string name="error_field_required">Povinné pole</string>
+    <string name="permission_rationale">"Přístup ke kontaktům je potřeba k předvyplnění emailu."
+    </string>
+</resources>

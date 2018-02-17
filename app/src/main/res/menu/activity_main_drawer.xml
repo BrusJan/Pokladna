@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cash_register"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Pokladna" />
+        <item
+            android:id="@+id/nav_synchro"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Synchronizace" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Historie" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Nastavení" />
+    </group>
+
+    <item android:title="Odhlásit">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Odhlásit" />
+        </menu>
+    </item>
+
+</menu>
